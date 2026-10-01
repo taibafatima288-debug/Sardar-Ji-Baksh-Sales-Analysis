@@ -2,6 +2,12 @@
 
 A business analytics project analysing sales performance, outlet performance, product profitability, seasonal trends, discounts and payment behaviour using Excel, PostgreSQL, SQL and Power BI.
 
+## Project Origin
+
+This project was undertaken through a **Consulting Club**, where I was a **founding member**. The project provided an opportunity to work with a structured sales dataset and apply business analytics techniques to practical business questions.
+
+The project involved analysing transactional sales data, identifying performance patterns and translating the analysis into an interactive Power BI dashboard.
+
 ## Project Overview
 
 This project was developed to demonstrate how transactional sales data can be transformed into business insights using relational data modelling, SQL analysis and interactive Power BI reporting.
@@ -12,7 +18,7 @@ The project combines dataset preparation, relational database development, SQL-b
 
 ## Business Context
 
-The business dataset contains multiple interconnected entities covering stores, products, customers and sales transactions.
+The business dataset contains multiple entities covering stores, products, customers and sales transactions.
 
 The analysis focuses on five main areas:
 
@@ -252,3 +258,72 @@ Includes:
 - Average Revenue by Payment Method
 - Average Profit by Payment Method
 - Transaction Volume by Payment Method
+
+## Dashboard Files
+
+- [Power BI Dashboard](PowerBI/Sardar_Ji_Baksh_Sales_Analytics.pbix) – Power BI project file
+- [Dashboard Overview](PowerBI/Dashboard_Overview.sjb.png) – dashboard preview
+- [Power BI Dashboard PDF](PowerBI/PowerBI_Dashboard.sjb.pdf) – exported dashboard report
+
+## Key Analytical Themes
+
+### Sales Performance
+
+- Overall revenue and profit
+- Total orders
+- Average order value
+- Profit margin
+- Monthly performance
+
+### Outlet Analysis
+
+- Revenue by outlet
+- Profit by outlet
+- Average revenue per sale
+- Revenue versus profit comparison
+
+### Product Analysis
+
+- Top products by profit
+- Top products by revenue
+- Units sold
+- Product-level profit margins
+- Products requiring further review
+
+### Sales Behaviour
+
+- Discount versus non-discounted transactions
+- Average revenue by payment method
+- Average profit by payment method
+- Transaction volume by payment method
+
+## Project Workflow
+
+**Excel Dataset → PostgreSQL Database → SQL Analysis → KPI Development → Power BI Data Modelling → Interactive Dashboard**
+
+The project begins with structured sales data, which is organised into related tables and analysed using SQL. The resulting business questions and metrics are then translated into interactive Power BI visualisations.
+
+## Analytical Note
+
+The findings presented in this project describe patterns observed within the available dataset.
+
+Comparisons such as discount status, payment method, outlet performance and product profitability represent observed relationships within the data and should not be interpreted as proof of causation.
+
+For example, the comparison between discounted and non-discounted orders shows that non-discounted orders had higher average revenue and profit in this dataset, but this alone does not establish that discounts caused lower profitability.
+
+Similarly, differences between outlets, products or payment methods represent observed patterns within the dataset.
+
+## Project Purpose
+
+This project demonstrates an end-to-end business analytics workflow involving:
+
+- Relational data modelling
+- Data preparation
+- SQL querying
+- KPI development
+- Business question formulation
+- Profitability analysis
+- Time-based analysis
+- Interactive dashboard design
+- Analytical interpretation
+- Data-driven reporting
