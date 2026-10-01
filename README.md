@@ -84,7 +84,7 @@ The `Customers` table is maintained separately because the Sales table does not 
 
 **File:**
 
-- [Sardar Ji Baksh Sales Dataset](Sardar%20Ji%20Baksh%20Sales%20Dataset.xlsx) – project dataset used for database development, SQL analysis and Power BI reporting.
+- [Sardar_Ji_Baksh_Sales_Dataset.xlsx](Sardar_Ji_Baksh_Sales_Dataset.xlsx) – project dataset used for database development, SQL analysis and Power BI reporting.
 
 ## Data Model
 
