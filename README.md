@@ -262,8 +262,7 @@ Includes:
 ## Dashboard Files
 
 - [Power BI Dashboard](PowerBI/Sardar%20Ji%20Baksh.pbix) – Power BI project file
-- [Dashboard Overview](PowerBI/Dashboard_Overview.sjb.png) – dashboard preview
-- [Power BI Dashboard PDF](PowerBI/PowerBI_Dashboard.sjb.pdf) – exported dashboard report
+- [Dashboard Overview](PowerBI/Dashboard_Overview.png) – Complete four-page dashboard overview
 
 ## Key Analytical Themes
 
